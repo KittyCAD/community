@@ -1,6 +1,6 @@
 # Request for Product: Programmable CAD
 
-Hello :nerd_face:!
+Hello :nerd_face: !
 
 We are looking for people who think similarly to us about the state of CAD
 software today and wish to help change it for the future! 
