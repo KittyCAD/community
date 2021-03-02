@@ -40,8 +40,9 @@ If you see this same future, WE WANT TO TALK TO YOU! We are forming a group of
 folks who share this same perspective to build the CAD of the future! The goals
 of the group will be to help hardware development catch up to the world of
 software development in terms of automation and programmability! If this
-resonates with you, please email
-[cad@embedded.ventures](mailto:cad@embedded.ventures)!
+resonates with you, please fill out this 
+[short form](https://docs.google.com/forms/d/e/1FAIpQLSc0b9DxO3Hc9ZlGet4VAr5cnLoyoNZWF7QJ5UDeCgfOX36GWg/viewform)
+and we will be in touch!
 
 To learn more about Embedded Ventures, head on over to
 [embedded.ventures](https://embedded.ventures)!
