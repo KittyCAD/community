@@ -37,7 +37,12 @@ effectively and you cannot view diffs. It seems obvious that this would _just
 work_ in the future we envision.
 
 If you see this same future, WE WANT TO TALK TO YOU! We are forming a group of
-folks who share this same perspective to build the CAD of the future! The goals
+folks who share this same perspective to build the CAD of the future! We are looking
+for anyone with a motivation to build, but also expertise in computer graphics, rendering,
+even animation would be great to have! We want to make a highly performant CAD
+tool which requires thinking about the problem set in new and different ways!
+
+The goals
 of the group will be to help hardware development catch up to the world of
 software development in terms of automation and programmability! If this
 resonates with you, please fill out this 
