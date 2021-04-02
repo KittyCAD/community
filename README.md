@@ -52,3 +52,5 @@ and we will be in touch!
 To learn more about Embedded Ventures, head on over to
 [embedded.ventures](https://embedded.ventures)!
 
+You can read a bit more about our thinking [here](https://medium.com/embedded-ventures/mechanical-cad-yesterday-today-and-tomorrow-981cef7e06b1)!
+
