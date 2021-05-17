@@ -1,5 +1,7 @@
 # Request for Product: Programmable CAD
 
+> **EDIT:** We have launched a company to solve these problems. Read more about it on [kittycad.io](https://kittycad.io/blog/introducing-kittycad)!
+
 Hello :nerd_face: !
 
 We are looking for people who think similarly to us about the state of CAD
